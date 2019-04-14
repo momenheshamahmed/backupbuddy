@@ -1,0 +1,16 @@
+{
+    "name": "backupbuddy",
+    "description": "Backupbuddy",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Momen Hesham",
+            "email": ""
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "KBrabrand": "src" 
+        }
+    }
+}
